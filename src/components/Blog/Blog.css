@@ -1,0 +1,17 @@
+.blog {
+    margin: 50px 150px;
+}
+
+.page-heading {
+    text-align: center;
+}
+
+.blog h2 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.page-heading,
+.answer {
+    margin-bottom: 50px;
+}
