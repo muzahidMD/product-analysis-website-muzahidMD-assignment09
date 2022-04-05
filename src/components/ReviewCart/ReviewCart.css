@@ -1,0 +1,40 @@
+.review-container {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 15px 15px;
+}
+
+.review-img img {
+    width: 100px;
+}
+
+.review-img {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.review-details {
+    width: 65%;
+}
+
+.review-details h1 {
+    color: rgb(54, 54, 54);
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.review-retings {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    width: 20%;
+    font-size: 18px;
+    font-weight: 500;
+}
