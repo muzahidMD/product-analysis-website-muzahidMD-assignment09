@@ -1,4 +1,22 @@
-.notfound h1 {
+.notfound {
     text-align: center;
+}
+
+.notfound h1 {
     font-size: 76px;
+    color: red;
+}
+
+.notfound p {
+    font-size: 36px;
+}
+
+.notfound button {
+    font-size: 18px;
+    color: black;
+    background-color: rgb(216, 184, 247);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 50px;
+    margin: 0 auto;
 }
