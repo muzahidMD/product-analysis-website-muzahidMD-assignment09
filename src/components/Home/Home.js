@@ -12,8 +12,8 @@ const Home = () => {
                 <div className='class-container'>
                     <div>
                         <h1 className='heading'>Your Next Laptop</h1>
-                        <h1 className='heading color-blueviolet' >Your Best Laptop</h1>
-                        <p className='heading-text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id eos, enim vero quas molestias quo laborum non est totam praesentium nesciunt nihil excepturi, dolores adipisci eligendi, accusamus similique! Nostrum, quae!</p>
+                        <h1 className='heading color-blueviolet' >Find A Best One</h1>
+                        <p className='heading-text'>To find your best laptops see all of ours customer reviews and choice the best one you need . And we promise  to sure about that all of ours reviews are create a good empect to buy a great one.</p>
                         <button className='header-btn'>Live Demo</button>
                     </div>
                 </div>
